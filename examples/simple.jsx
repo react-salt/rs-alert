@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import Alert from '../src/alert.js';
-import '../assets/alerts.less';
 
 export default class Simple extends Component {
     render() {
